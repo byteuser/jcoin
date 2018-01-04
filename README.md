@@ -106,5 +106,6 @@
 <img src="/doc/5.png" width="60%">
 <img src="/doc/6.png" width="60%">
 <img src="/doc/7.png" width="60%">
+<img src="/doc/8.png" width="60%">
 <img src="/doc/wchat.png" width="60%">
 
