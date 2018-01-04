@@ -95,3 +95,13 @@
 
 账户余额越多，挖矿的机会越大
 
+
+<img src="/doc/1.png" width="100%">
+<img src="/doc/2.png" width="100%">
+<img src="/doc/3.png" width="100%">
+<img src="/doc/4.png" width="100%">
+<img src="/doc/5.png" width="100%">
+<img src="/doc/6.png" width="100%">
+<img src="/doc/7.png" width="100%">
+<img src="/doc/wchat.png" width="100%">
+
