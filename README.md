@@ -1,6 +1,5 @@
 # 京币 JCoin
 
-<a href="https://github.com/jcoinpub/jcoin/blob/master/android/jcoin-v1.apk?raw=true">安卓下载<a>
 
 #1.
 
